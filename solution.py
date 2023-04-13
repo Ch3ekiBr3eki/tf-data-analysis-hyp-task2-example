@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from scipy import stats
 from scipy.stats import ks_2samp
 
 chat_id = 323297403  # Ваш chat ID, не меняйте название переменной
